@@ -1,0 +1,41 @@
+class Main{
+
+
+function void main(){
+
+var String ime,prezime,smer;
+var String brIndeksa;
+var Student s1,s2;
+
+let s1 =  Student.new(ime,prezime);
+
+
+	/*let ime = Keyboard.readLine("Unesi ime : ");
+	let prezime= Keyboard.readLine("Unesi prezime: ");
+	let  brIndeksa= Keyboard.readLine("Unesi BrIndeksa: ");
+	let smer= Keyboard.readLine("Unesi smer: ");*/
+
+	do Student.ime = "ime"
+
+	do Output.printInt (  Student.ime);
+	
+	
+	
+
+
+ 	do s1.Unos(ime , prezime, brIndeksa, smer  );
+
+	
+
+	//do Student.Ispis(s1);
+	
+
+
+
+return;
+
+
+}
+
+}
+

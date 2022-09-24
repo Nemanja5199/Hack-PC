@@ -1,0 +1,46 @@
+class Student{
+	field String ime;
+	field String prezime;
+	field String BrIndeksa;
+	static  String smer;
+		
+
+constructor Student new (String i , String p ){
+let ime = i;
+let prezime= p;
+let BrIndeksa= "  ";
+let smer= "  ";
+return this;
+}
+
+	
+	
+	method void Unos(String i,String p,String b,String sr){
+
+	let  ime =i;
+	let  prezime =p;
+	 let BrIndeksa = b;	
+	 let smer = sr;	
+	return;
+}
+
+	/*function void Ispis(Student s ){
+
+
+	do Output.printString (s.ime);
+	do Output.printString (s.prezime);
+	do Output.printString (s.Brindeksa);
+	do Output.printString (s.smer);
+
+	
+	return;
+}*/
+
+
+}
+
+	
+
+
+
+	
