@@ -1,0 +1,103 @@
+Restore Archived Project report for Ram
+Thu Jul 14 14:09:08 2022
+Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2013 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Thu Jul 14 14:09:08 2022 ;
+; Revision Name                   ; Ram                                   ;
+; Top-level Entity Name           ; RamTest                               ;
+; Family                          ; Cyclone II                            ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'D:/VLSI/Diplomski Rad Hack/RAM/Ram_tmp_archive.qar' into the 'D:/VLSI/Diplomski Rad Hack/Hack/' directory
+Info: Generated report 'Ram.restore.rpt'
+
+
++------------------------------------------------+
+; Files Restored                                 ;
++------------------------------------------------+
+; File Name                                      ;
++------------------------------------------------+
+; ALU.v                                          ;
+; ASCIIToData.v                                  ;
+; BCD.v                                          ;
+; CPU.v                                          ;
+; DMUX.v                                         ;
+; FIFO.v                                         ;
+; FullAdder.v                                    ;
+; FullAdder16.v                                  ;
+; HACKRAM.v                                      ;
+; INV.v                                          ;
+; I_GATE.v                                       ;
+; KBD.v                                          ;
+; KBDSymbol.v                                    ;
+; MUX.v                                          ;
+; MUX16.v                                        ;
+; PC.v                                           ;
+; RAM.v                                          ;
+; RAM16K.v                                       ;
+; REG.v                                          ;
+; Ram.qpf                                        ;
+; Ram.qsf                                        ;
+; RamTest.bdf                                    ;
+; SCR.qip                                        ;
+; SCR.v                                          ;
+; VGA1.v                                         ;
+; incremental_db/compiled_partitions/Ram.db_info ;
+; kb_code.v                                      ;
+; key2ascii.v                                    ;
+; output_files/stp1.stp                          ;
+; output_files/stp1_auto_stripped.stp            ;
+; prescaler.v                                    ;
+; ps2_rx.v                                       ;
+; vga.v                                          ;
+; vga_pll.v                                      ;
+; vga_sync.v                                     ;
+; assignment_defaults.qdf                        ;
++------------------------------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+

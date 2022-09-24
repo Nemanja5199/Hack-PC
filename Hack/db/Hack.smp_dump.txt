@@ -1,0 +1,6 @@
+
+State Machine - |RamTest|KBDS:inst5|kb_code:K1|ps2_rx:ps2_rx_unit|state_reg
+Name state_reg.idle state_reg.load state_reg.dps 
+state_reg.idle 0 0 0 
+state_reg.dps 1 0 1 
+state_reg.load 1 1 0 
